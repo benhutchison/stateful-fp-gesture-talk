@@ -1,6 +1,6 @@
 # Stateful Functional Programming: A case-study in Pointer Gesture Recognition
 
-[Slides](StatefulFP.pdf) for a talk on using functional programming techniques including the [state monad](https://typelevel.org/cats/datatypes/state.html) to tackle a stateful problem: gesture recognition of pointer events in the [gesture](https://github.com/benhutchison/gesture) library.
+[Slides](StatefulFP.pdf) for a talk on using functional programming techniques to tackle a stateful problem: gesture recognition of pointer events in the [gesture](https://github.com/benhutchison/gesture) library.
 
 ## Versions
 
